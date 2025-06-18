@@ -1,8 +1,13 @@
 # APAC-Market
-The objective of this dashboard is to analyze and understand the performance of sales in the APAC region during 2024
+The objective of this dashboard is to analyze and understand the sales performance at APAC area during 2024
+
+### Dashboard
+_(please switch to desktop view for better visualization)_
+https://public.tableau.com/shared/9TFW7JB8K?:display_count=n&:origin=viz_share_link&:device=desktop
 
 ### Visualization
-![image](https://github.com/user-attachments/assets/ca5eff06-94c5-421b-8850-6f07ae4934ca)
+[<div class='tableauPlaceholder' id='viz1750282883179' style='position: relative'><noscript><a href='#'><img alt='Sales Dashboard ' src='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9T&#47;9TFW7JB8K&#47;1_rss.png' style='border: none' /></a></noscript><object class='tableauViz'  style='display:none;'><param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' /> <param name='embed_code_version' value='3' /> <param name='path' value='shared&#47;9TFW7JB8K' /> <param name='toolbar' value='yes' /><param name='device' value='desktop' /><param name='static_image' value='https:&#47;&#47;public.tableau.com&#47;static&#47;images&#47;9T&#47;9TFW7JB8K&#47;1.png' /> <param name='animate_transition' value='yes' /><param name='display_static_image' value='yes' /><param name='display_spinner' value='yes' /><param name='display_overlay' value='yes' /><param name='display_count' value='yes' /><param name='language' value='en-US' /><param name='filter' value='publish=yes' /></object></div>                
+](https://public.tableau.com/shared/9TFW7JB8K?:display_count=n&:origin=viz_share_link&:device=desktop)
 
 ### Key Findings
 1. Sales grew by 25.06% compared to the previous year, showing positive interest by customer.
